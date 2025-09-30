@@ -1,6 +1,3 @@
-# llm_email_assist_poc
-Proof of Concept of an LLM powered email assistant
-
 # Gmail + LLM Summarizer (PoC)
 
 A tiny FastAPI proof-of-concept that:
