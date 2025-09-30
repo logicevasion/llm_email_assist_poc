@@ -1,0 +1,9 @@
+python-dotenv
+fastapi
+openai
+uvicorn[standard]
+authlib
+pydantic
+pydantic-settings
+itsdangerous
+httpx
